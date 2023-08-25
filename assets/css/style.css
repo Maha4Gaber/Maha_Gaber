@@ -25,6 +25,7 @@ body {
     color: #fff;
     position: relative;
     /* background: transparent; */
+    background: #040404 url("../img/bg.png") top right no-repeat;
 }
 
 body::before {

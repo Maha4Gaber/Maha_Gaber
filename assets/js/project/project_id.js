@@ -16,8 +16,8 @@ let info =`
             <ul>
               <li><strong>Category</strong>: ${Project.filter}</li>
               <li><strong>Project date</strong>:  ${Project.date}</li>
-              <li><strong>Project URL </strong>: <a href=" ${Project.live}">  live Demo</a></li>
-              <li><strong>Project Code Link </strong>: <a href="${Project.gith}">  Code</a></li>
+              <li><strong>Project URL </strong>: <a href=" ${Project.live}" target="_blank" rel="noopener noreferrer" >  live Demo</a></li>
+              <li><strong>Project Code Link </strong>: <a href="${Project.gith}" target="_blank" rel="noopener noreferrer" >  Code</a></li>
             </ul>
             <p> ${Project.desc}" </p>
 

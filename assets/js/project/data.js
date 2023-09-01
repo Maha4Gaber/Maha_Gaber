@@ -4,11 +4,11 @@ let prjectsDB = [
     name: "Pato Resturant",
     img: 'pato1.PNG',
     imgs: ['pato1.PNG','pato2.PNG','pato3.PNG','pato6.PNG','pato5.PNG','pato4.PNG'],
-    tools:['Vuejs','Vuex','Json Server','Bootstrapt','Axios','Validation'],
+    tools:['Reactjs','Redux Tool Kit','Bootstrapt','Axios','Php Laravel API'],
     desc: `A website that display the restaurants products to you ,informational 
     abut restaurant,people's opinions,each product separately you can leave comments,you can make an order for any product if
       you don't have an account you must register first then make the order ,finally you can leave a feedback.`,
-    gith: 'http://github.com/Maha4Gaber/Connoisseur',
+    gith: 'http://github.com/Maha4Gaber/Pato',
     video: "Pato",
     filter:"react"
   },
